@@ -4,7 +4,7 @@
 
 A DOC EXAMPLE FOR TESTING CHANGES IN GIT
 
-test of lower case 
+TEST OF UPPER CASE 
 
 ---
 
